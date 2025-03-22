@@ -2,7 +2,7 @@
 
 A simple interactive app built using **Jetpack Compose** in Kotlin. This app simulates making lemonade by letting users tap and interact with different stages of the process.  
 
-## 🛠 Tech Used  
+## Tech Used  
 - **Kotlin**  
 - **Jetpack Compose**  
 - **State Management**  
